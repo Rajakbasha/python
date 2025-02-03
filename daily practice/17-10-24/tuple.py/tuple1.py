@@ -1,5 +1,0 @@
-tup=(1,2,2,2,2,6,6,2,2,2,2,4,5,6,7,)
-print(tup.count(5))
-print(tup.index(5))
-print(tup)
-print(len(tup))

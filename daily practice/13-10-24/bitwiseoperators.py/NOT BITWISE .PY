@@ -1,4 +1,0 @@
-#(~) RETURNDS ONES COMPLEMENT OF THE NUMBER
-a=10
-~a
-print(~a)
