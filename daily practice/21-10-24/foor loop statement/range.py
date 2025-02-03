@@ -1,0 +1,15 @@
+#range function returns a sequence of numbers,starting from by a default and increment by 1 by default and stops befor a specified  number
+seq=range(0,10)
+print(seq[0])
+print(seq)
+print(seq[6])
+print(seq[3])
+print(seq[0])
+print(seq[3])
+print(seq[7])
+print(seq[6])
+print(seq[4])
+print(seq[7])
+print(seq[5])
+print(seq[6])
+

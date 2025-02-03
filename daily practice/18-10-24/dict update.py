@@ -1,0 +1,10 @@
+student={
+    "name":"rajak",
+    "subjects":{
+        "physics":98,
+        "mathematics":89
+    }
+}
+student.update({"city":"kurnool"})
+student.update({"subject":{"chemistry":98}})
+print(student)

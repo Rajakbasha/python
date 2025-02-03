@@ -1,0 +1,15 @@
+num=10
+num+=10
+print(num)
+a=20
+a-=25
+print(a)
+b=39
+b*=1
+print(b)
+c=90
+c%=1
+print(c)
+d=50
+d**=10
+print(d)

@@ -1,0 +1,10 @@
+a=10
+b=1.5
+c="rajak"
+d=2+3j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+str="rajak"
+print(type(str))

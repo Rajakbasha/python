@@ -1,0 +1,6 @@
+#types of all files .:-
+#
+#1)text files:- .text,.docx,.log etc...
+#2 binary files:- .mp4,.mov,.png,.jpg, etc....
+#open read and close files :-
+
